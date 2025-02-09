@@ -1,99 +1,48 @@
-# [Project Name] 🎯
+# 🎯 Multiplayer Snake Game
 
+## 🏆 Team Name: Hactivate-2
 
-## Basic Details
-### Team Name: [Name]
+### 👥 Team Members
+- **Harsha D S** - SOE, CUSAT
+- **Roshna Palatty Santhosh** - SOE, CUSAT
+- **Merella Jobi** - SOE, CUSAT
 
-
-### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
-
-### Hosted Project Link
-[mention your project hosted project link here]
-
-### Project Description
-[2-3 lines about what your project does]
-
-### The Problem statement
-[What ridiculous problem are you solving?]
-
-### The Solution
-[How are you solving it? Keep it fun!]
-
-## Technical Details
-### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
-
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Team](Add photo of your team here)
-
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+### 🚀 Hosted Project Link
+[GitHub Repository](https://github.com/RoshnaSanthosh/snakegame/commits?author=RoshnaSanthosh)
 
 ---
-Made with ❤️ at TinkerHub
+
+## 📌 Project Description
+This is a **multiplayer snake game** built using Python and Pygame. The game allows **two players** to control separate snakes, collect food, and compete for the highest score while avoiding collisions with themselves and each other.
+
+### 🛑 Problem Statement
+Traditional snake games are **single-player** experiences, limiting the fun and competition.
+
+### 💡 Our Solution
+We modified the game to support **two players**, making it more engaging and competitive.
+
+---
+
+## 🔧 Technical Details
+### 🖥 Technologies Used
+- **Programming Language:** Python
+- **Libraries:** `pygame`, `time`, `random`
+- **Development Environment:** VS Code
+
+---
+
+## 📸 Screenshots
+![Screenshot](C:/Users/Roshna%20Santhosh/OneDrive/Pictures/Screenshots/Screenshot%20(6).png)
+
+---
+
+## 👨‍💻 Team Contributions
+| Team Member            | Contributions                                   |
+|------------------------|-----------------------------------------------|
+| **Harsha D S**         | Ideas & modified code                         |
+| **Roshna Palatty Santhosh** | Basic code & modified code                     |
+| **Merella Jobi**       | Modified code, GitHub publishing, animations |
+
+---
+
+## ❤️ Made with Love at TinkerHub
